@@ -4,7 +4,7 @@ Labs conducted by Prof Filattre
 2. Automatic Gradient
 3. Training a Classifier
 4. Using GPU
-5.
+5. Comparison Deep vs Shallow Network
 6.
 7.
 8.
