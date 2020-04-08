@@ -5,7 +5,7 @@ Labs conducted by Prof Filattre
 3. Training a Classifier
 4. Using GPU
 5. Comparison Deep vs Shallow Network
-6.
+6. Multilayer Perceptron
 7.
 8.
 9.
