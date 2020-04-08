@@ -6,7 +6,7 @@ Labs conducted by Prof Filattre
 4. Using GPU
 5. Comparison Deep vs Shallow Network
 6. Multilayer Perceptron and Regularization
-7.
+7. Finetunning and Feature Extraction
 8.
 9.
 10.
