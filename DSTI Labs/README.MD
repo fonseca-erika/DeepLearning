@@ -1,4 +1,5 @@
-Labs conducted by Prof Filattre
+# Deep Learning Labs
+by Prof Filattre
 
 1. Basics of Pytorch
 2. Automatic Gradient
