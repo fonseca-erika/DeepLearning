@@ -7,6 +7,6 @@ Labs conducted by Prof Filattre
 5. Comparison Deep vs Shallow Network
 6. Multilayer Perceptron and Regularization
 7. Finetunning and Feature Extraction
-8.
+8. Object Detection
 9.
 10.
