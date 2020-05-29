@@ -9,5 +9,5 @@ by Prof Filattre
 6. Multilayer Perceptron and Regularization
 7. Finetunning and Feature Extraction
 8. Object Detection
-9.
+9. Natural Language Processing (NLP)
 10.
